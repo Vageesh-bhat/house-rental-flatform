@@ -55,9 +55,9 @@ header("location:index.php?page=home");
 		background:#59b6ec61;
 		display: flex;
 		align-items: center;
-		/*background: url(assets/uploads/blood-cells.jpg);
+		background: url("assets/uploads/image.jpg");
 	    background-repeat: no-repeat;
-	    background-size: cover;*/
+	    background-size: cover;
 	}
 	#login-right .card{
 		margin: auto;
